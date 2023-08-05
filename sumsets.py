@@ -4,7 +4,7 @@ import questionary
 from itertools import chain, combinations
 from pprint import pprint
 
-dir = os.path.dirname(__file__) 
+dir = os.path.dirname(__file__)
 
 predefined = []
 required = []
